@@ -1,0 +1,10 @@
+Lorem ipsum dolor sit amet
+Пример
+consectetur adipiscing
+тестовое задание
+Нормальная форма числа с плавающей запятой
+Long
+Данные добавляются в существующие файлы
+EEEE-25
+append instead of write
+7.7.7
