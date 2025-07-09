@@ -21,11 +21,15 @@ java Main -i <имя директории с входящими файлами> 
 Пример 1:
 
 cd C:\Users\MPV\Java_Synergy\Shift_Test\out\artifacts\Shift_Test_jar
+
 java -jar Shift_Test.jar -o output_files -i input_files -p result_ -a -f
+
 
 Пример 2:
 
 cd C:\Users\MPV\Java_Synergy\Shift_Test\src
+
 javac Main.java
+
 java Main -o output_files -i input_files -p result_ -a -f
 
